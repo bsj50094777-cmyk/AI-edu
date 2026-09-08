@@ -1,0 +1,6 @@
+{
+  "name": "Wall Street Portfolio",
+  "description": "미국 월스트리트 스타일의 주식 포트폴리오 관리 프로그램 (현재가, IT/바이오/에너지/소비재 섹터별 비중, 수익 분석 및 월별 수익 변화 추이)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
